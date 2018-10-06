@@ -5,8 +5,8 @@
 
 ## AWS登録
 * [AWSアカウント作成](docs/aws.md)
-* [VPC作成](docs/vpc.md)
 * [IAM作成](docs/iam.md)
+* [VPC作成](docs/vpc.md)
 
 ## mockmock登録
 
