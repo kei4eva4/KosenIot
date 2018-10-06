@@ -12,4 +12,5 @@
 * [IAM作成](docs/iam.md)
 
 ## mockmock登録
+* [mockmockアカウント登録](docs/mockmock_account.md)
 
