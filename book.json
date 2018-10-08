@@ -1,4 +1,4 @@
 {
     "language": "ja",
-    "plugins": ["-sharing", "hide-published-with"]
+    "plugins": ["-sharing", "hide-published-with", "image-class"]
 }
