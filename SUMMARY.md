@@ -11,8 +11,8 @@
 * [mockmockアカウント登録](docs/mockmock_account.md)
 
 ## ハンズオン① デバイスのデータをS3に保存
-* [モノを作成](docs/things.md)
 * [ポリシーの作成](docs/policy.md)
+* [モノを作成](docs/things.md)
 * [ルールを作成](docs/rule.md)
 * [デバイスの作成](docs/device.md)
 
