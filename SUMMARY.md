@@ -15,6 +15,7 @@
 * [モノを作成](docs/things.md)
 * [ルールを作成](docs/rule.md)
 * [デバイスの作成](docs/device.md)
+* [気温のモック](docs/temperature_mock.md)
 
 ## ハンズオン② デバイスのデータをIoT Analyticsで可視化
 
