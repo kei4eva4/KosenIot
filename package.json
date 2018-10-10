@@ -10,7 +10,9 @@
     "gitbook-plugin-image-class": "^1.0.5",
     "gitbook-plugin-hide-published-with": "^1.0.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
