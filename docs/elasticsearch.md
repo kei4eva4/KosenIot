@@ -1,8 +1,10 @@
-# Elaticsearch Service
+# 気温のビジュアライズ
 
-Elaticsearch Serviceを利用してデータをグラフ化します。
+Elasticsearch Serviceを利用してデータをビジュアライズします。
 
-AWS IoTのルールの`HelloIotRule`を開きます。
+Elasticsearch Serviceはオープンソースの全文検索エンジンです。AWS IoTのデータをElasticsearchに投げてあとで解析できるようにします。
+
+まずはAWS IoTのルールの`HelloIotRule`を開きます。
 
 ![/images/elasticsearch/elasticsearch1.jpg](/images/elasticsearch/elasticsearch1.jpg)
 

@@ -5,7 +5,7 @@
 
 ## 準備① AWS登録
 * [AWSアカウント作成](docs/aws.md)
-* [VPC作成](docs/vpc.md)
+<!-- * [VPC作成](docs/vpc.md) -->
 * [IAM作成](docs/iam.md)
 
 ## 準備② mockmock登録
@@ -19,4 +19,8 @@
 
 ## ハンズオン② デバイスのデータをIoT Analyticsで可視化
 * [気温のモック](docs/temperature_mock.md)
-* [Elaticsearch Service](docs/elasticsearch.md)
+* [気温のビジュアライズ](docs/elasticsearch.md)
+
+
+## 後処理
+* [リソース削除](docs/delete_resources.md)
