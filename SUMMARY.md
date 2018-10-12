@@ -16,7 +16,7 @@
 * [ルールを作成](docs/rule.md)
 * [デバイスの作成](docs/device.md)
 
-## ハンズオン② デバイスのデータをIoT Analyticsで可視化
+## ハンズオン② デバイスのデータをElasticsearch Serviceで可視化
 * [気温のモック](docs/temperature_mock.md)
 * [気温のビジュアライズ](docs/elasticsearch.md)
 
