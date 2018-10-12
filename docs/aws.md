@@ -22,6 +22,10 @@ AWSのアカウントを作成します。
 
 ![/images/register-flow2.png](/images/aws/register-flow2.png)
 
+住所は英語入力になるので、書き方がわからない場合は下記のような変換サイトをご利用ください。
+
+[JuDress](http://judress.tsukuenoue.com/)
+
 ※ 法人利用であれば、「プロフェッショナル」、個人利用であれば「パーソナル」を選択
 
 1. ① 各項目のユーザ情報を入力（任意項目のみ追記）

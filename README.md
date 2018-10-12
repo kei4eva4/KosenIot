@@ -3,20 +3,20 @@
 
 # 目次
 
-## AWS登録
+## 準備① AWS登録
 * [AWSアカウント作成](docs/aws.md)
-* [IAM作成](docs/iam.md)
 * [VPC作成](docs/vpc.md)
+* [IAM作成](docs/iam.md)
 
-## mockmock登録
+## 準備② mockmock登録
+* [mockmockアカウント登録](docs/mockmock_account.md)
 
-## AWS IoT Coreでエンドポイントを作成
+## ハンズオン① デバイスのデータをS3に保存
+* [ポリシーの作成](docs/policy.md)
+* [モノを作成](docs/things.md)
+* [ルールを作成](docs/rule.md)
+* [デバイスの作成](docs/device.md)
 
-## mockmockでデバイスのモックを作成（ダミーで温度のデータを送信）
-
-## AWS IoT Analyticsでグラフ化
-
-## 一定値を超えたらAWS Lambdaで通知（メール？）
-
-
-
+## ハンズオン② デバイスのデータをIoT Analyticsで可視化
+* [気温のモック](docs/temperature_mock.md)
+* [Elaticsearch Service](docs/elasticsearch.md)
