@@ -1,0 +1,29 @@
+{
+  "name": "koseniot",
+  "version": "1.0.0",
+  "description": "このドキュメントは10月14日に熊本高専で開催する「Iotのためのクラウドアプリケーション開発入門」のハンズオン資料です。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "gitbook-plugin-image-class": "^1.0.5",
+    "gitbook-plugin-hide-published-with": "^1.0.3"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kei4eva4/KosenIot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kei4eva4/KosenIot/issues"
+  },
+  "homepage": "https://github.com/kei4eva4/KosenIot#readme"
+}
