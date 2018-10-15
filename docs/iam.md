@@ -57,21 +57,17 @@ IAMサービスページに移動します。
 
 ![/images/iam/iam2.jpg](/images/iam/iam2.jpg)
 
----
-
 「ユーザ」をクリックします。
 
 ---
 
 ![/images/iam/iam3.jpg](/images/iam/iam3.jpg)
 
----
-
 「ユーザの追加」をクリックします。
 
-![/images/iam/iam4.jpg](/images/iam/iam4.jpg)
-
 ---
+
+![/images/iam/iam4.jpg](/images/iam/iam4.jpg)
 
 1. ① 新しくログインに使用するユーザ名を入力します。ここでは `iot_user` とします
 2. コマンドラインなどでこのアカウントを使用する場合、②にチェックします
@@ -80,21 +76,27 @@ IAMサービスページに移動します。
 5. パスワードのリセットが必要のチェックは外す
 6. 「次のステップ:アクセス権限」をクリック
 
-![/images/iam/iam5.jpg](/images/iam/iam5.jpg)
-
 ---
 
 作成するユーザに権限を付与します。  
 今回は利便性のために管理者向けの機能を除いたすべてのAWSサービスが利用できるPowerUserAccessを付与します。
+またあとでロール作成のためIAMFullAccessも付与します。
+
+![/images/iam/iam5.jpg](/images/iam/iam5.jpg)
 
 1. ① 「既存のポリシーを直接アタッチ」を選択
 2. ② 「PowerUserAccess」で検索
 3. ③ 「PowerUserAccess」にチェックする
-4. 「次のステップ:確認」ボタンをクリック
+
+![/images/iam/iam5_2.jpg](/images/iam/iam5_2.jpg)
+
+1. ② 「IAMFullAccess」で検索
+2. ③ 「IAMFullAccess」にチェックする
+3. 「次のステップ:確認」ボタンをクリック
 
 ![/images/iam/iam6.jpg](/images/iam/iam6.jpg)
 
-ユーザの作成をクリックします。
+`PowerUserAccess`と`IAMFullAccess`がついていることを確認して「ユーザの作成」をクリックします。
 
 ---
 
