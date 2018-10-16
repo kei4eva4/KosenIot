@@ -4,7 +4,6 @@
 
 ## 準備① AWS登録
 * [AWSアカウント作成](docs/aws.md)
-<!-- * [VPC作成](docs/vpc.md) -->
 * [IAM作成](docs/iam.md)
 
 ## 準備② mockmock登録
@@ -22,4 +21,5 @@
 
 ## 後処理
 * [リソース削除](docs/delete_resources.md)
+* [請求確認](docs/billing.md)
 

@@ -24,3 +24,4 @@
 
 ## 後処理
 * [リソース削除](docs/delete_resources.md)
+* [請求確認][docs/billing.md]
